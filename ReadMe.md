@@ -97,3 +97,21 @@ In order to check that the program works fine, let's stop the debugger session a
 
     Verify that the program works correctly now.
     The program outputs 2.0 now
+    
+
+1. breakpoint set
+2. debug mode
+3. program is paused
+4. watch expression (review)
+5. basic operations
+* stepover: F8 = next line of code
+* stepin, over...
+* conditional breakpoint(right click on breakpoint)= program will stop there bv students.get(i)="sally"
+stop debugger
+fix
+regular test mode
+great for logging values: you see all the values at once
+
+   
+    
+  
